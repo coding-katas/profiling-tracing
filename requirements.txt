@@ -1,0 +1,5 @@
+Flask==1.1.2
+google-python-cloud-debugger 
+google-cloud-profiler
+opencensus
+opencensus-ext-stackdriver
